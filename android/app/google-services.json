@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "240200136964",
+    "firebase_url": "https://app-kyrios-default-rtdb.firebaseio.com",
+    "project_id": "app-kyrios",
+    "storage_bucket": "app-kyrios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240200136964:android:89a4cd6e3f91f75173f851",
+        "android_client_info": {
+          "package_name": "Publicidad.kyrios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240200136964-eh6i062gh74bmafdkafd4s01msfmgg98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Publicidad.kyrios",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8RuxsmFZBhFinXBxOLRBaXo0S8BNztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Publicidad.kyrios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240200136964:android:9dacea556ea161a973f851",
+        "android_client_info": {
+          "package_name": "com.Publicidad.kyrios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240200136964-9io7g9afco3kvpqdfmja894841u400oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Publicidad.kyrios",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8RuxsmFZBhFinXBxOLRBaXo0S8BNztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Publicidad.kyrios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240200136964:android:59ffc605342ca25c73f851",
+        "android_client_info": {
+          "package_name": "com.Publicidad.kyrios.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8RuxsmFZBhFinXBxOLRBaXo0S8BNztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Publicidad.kyrios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240200136964:android:31557d7fda85e92c73f851",
+        "android_client_info": {
+          "package_name": "com.Publicidad.kyrios.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240200136964-qlm33j68c9thtt2bi5s71ekff9nct38f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Publicidad.kyrios.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8RuxsmFZBhFinXBxOLRBaXo0S8BNztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Publicidad.kyrios.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240200136964:android:ac3ffcc09ff2c4c673f851",
+        "android_client_info": {
+          "package_name": "com.mycompany.kyriostable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240200136964-mhq5fau2bvprjv3j9oiube96goh0e0ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kyriostable",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8RuxsmFZBhFinXBxOLRBaXo0S8BNztE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240200136964-fnjacmj8rosi05f9grgsn7d3gkimsbs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Publicidad.kyrios.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

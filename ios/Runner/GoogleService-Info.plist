@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>240200136964-7p3nu28bve99gj1h1oeok18go4281jpo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.240200136964-7p3nu28bve99gj1h1oeok18go4281jpo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>240200136964-9io7g9afco3kvpqdfmja894841u400oh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3yRwPnreikIH1xqv3bntNkPHdVTA0lXM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240200136964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Publicidad.kyrios.app</string>
+	<key>PROJECT_ID</key>
+	<string>app-kyrios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-kyrios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240200136964:ios:efc47b8955a7608073f851</string>
+	<key>DATABASE_URL</key>
+	<string>https://app-kyrios-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
